@@ -8,4 +8,4 @@
 
 效果图：
 
-![](https://pic.imgdb.cn/item/6157df512ab3f51d91a3d757.jpg)
+![](./assets/image.jpg)
