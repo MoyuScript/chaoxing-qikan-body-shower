@@ -3,7 +3,7 @@
 // @namespace    https://www.moyu.moe/
 // @homepage     https://github.com/MoyuScript/chaoxing-qikan-body-shower
 // @supportURL   https://github.com/MoyuScript/chaoxing-qikan-body-shower/issues/new
-// @version      0.1
+// @version      0.2
 // @description  超星期刊 WEB 端正文显示
 // @author       MoyuScript
 // @match        *://qikan.chaoxing.com/detail_*
