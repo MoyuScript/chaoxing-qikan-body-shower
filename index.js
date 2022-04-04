@@ -3,7 +3,7 @@
 // @namespace    https://www.moyu.moe/
 // @homepage     https://github.com/MoyuScript/chaoxing-qikan-body-shower
 // @supportURL   https://github.com/MoyuScript/chaoxing-qikan-body-shower/issues/new
-// @version      0.2
+// @version      0.3
 // @description  超星期刊 WEB 端正文显示
 // @author       MoyuScript
 // @match        *://qikan.chaoxing.com/detail_*
@@ -17,7 +17,7 @@
 (function() {
   'use strict';
 
-   const body_url = 'http://m.chaoxing.com/mqk/read_' + location.pathname.split('_')[1];
+   const body_url = 'https://m.chaoxing.com/mqk/read_' + location.pathname.split('_')[1];
    const $iframe = document.createElement('iframe');
    $iframe.src = body_url;
    $iframe.width = '100%';
